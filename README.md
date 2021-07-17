@@ -15,4 +15,5 @@ pip install -r requirements.txt
 python quickstart.py  
 ```
 
+## 言語・FW  
 Python3
