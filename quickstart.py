@@ -49,7 +49,7 @@ def main():
         print('No upcoming events found.')
     else:
         for event in events:
-            start = event['start'].get('dateTime', event['start'].get('date'))
+            start = event['start'].get('dateTime', event['start'].get('date')).replace('-', '/')
             print(start, event['summary'])
 
 
