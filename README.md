@@ -5,8 +5,6 @@ https://developers.google.com/google-apps/calendar/quickstart/python
 
 認証情報のJSONファイルを```'credentials.json'```としてディレクトリに設置する
 
-----------------------------------------------------------------------
-
 ## インストール  
 ```
 pip install -r requirements.txt
