@@ -12,7 +12,7 @@ pip install -r requirements.txt
   
 ## 実行
 ```
-python quickstart.py  
+python3 quickstart.py  
 ```  
 ※一度認証するとpickleファイルが作られる
 
