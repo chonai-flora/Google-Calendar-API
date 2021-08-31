@@ -15,6 +15,3 @@ pip install -r requirements.txt
 python3 quickstart.py  
 ```  
 ※一度認証するとpickleファイルが作られる
-
-## 言語・FW  
-Python3
